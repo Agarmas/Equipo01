@@ -1,1 +1,12 @@
+# Lo genera NeatBeans automáticamente
 /Equipo01/nbproject/private/
+
+# Ignoramos todas las extensiones
+*
+
+# Menos las de nuestro proyecto web
+!*.html
+!*.css
+!*.php
+!*.png
+!*.jpg
